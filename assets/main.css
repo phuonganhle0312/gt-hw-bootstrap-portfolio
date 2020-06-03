@@ -84,7 +84,14 @@ body {
     font-weight: bold;
     text-shadow: 3px 3px rgba(153, 122, 21, 0.781)
 }
+h3 {
+    text-align: center;
+    color: white;
+}
 
+.img-thumbnail {
+    margin-left: 80px;
+}
    
 
 /*Footer*/
