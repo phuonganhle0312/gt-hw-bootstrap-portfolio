@@ -1,0 +1,78 @@
+
+
+/*Index Container color*/
+#intro {
+    background-image: radial-gradient(rgba(212, 71, 71, 0.877), rgb(82, 4, 4));
+    margin-top: 20px;
+    margin-bottom: 20px;
+      
+}
+
+/*Heading Section*/
+#heading {
+    text-align: center;
+    color: rgb(233, 232, 227);
+    font-family: sans-serif;
+    font-stretch: extra-expanded;
+    font-size: 3rem ;
+    font-weight: bold;
+    text-shadow: 3px 3px rgba(153, 122, 21, 0.781)
+}
+/*About Me Section Break*/
+.sb {
+    background-color: transparent;
+    border: 0;
+    border-top: 1px solid rgb(245, 245, 245);
+    display: block;
+    height: 0;
+    margin: 3 auto 3;
+    text-align: center;
+    width: 50;}
+/*My Photo*/
+#headshot {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 20px;
+    border:10px solid rgba(0, 0, 0, 0.329);
+    border-radius: 500px;
+    float: left;
+   
+}
+/*About Me Bio*/
+#bio {
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    color: white;
+}
+
+/*Contact Page*/
+
+#contactform {
+    background-image: radial-gradient(rgba(212, 71, 71, 0.877), rgb(82, 4, 4));
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    text-align: center;
+    color: white;
+}
+.form-control {
+    margin left: 100px;
+    text-align: center;
+}
+   
+
+/*Footer*/
+#footer {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100;
+        background-color: gray;
+        color: white;
+        text-align: center;
+}
