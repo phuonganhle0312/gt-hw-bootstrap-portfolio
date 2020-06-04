@@ -15,7 +15,9 @@ It is developed using Bootstrap CSS and customized based on the design markups p
 Clone the repo and run the index.html file in default browser.
 
 ## Usage
-[Deployed Portfolio WebSite](https://phuonganhle0312.github.io/gt-hw-bootstrap-portfolio/)
+[Deployed Portfolio WebSite](https://phuonganhle0312.github.io/gt-hw-bootstrap-portfolio/index.html)
+![Deployed Website](./assets/images/deployed.png "My Portfolio Website")
+
 
 ## Credits
 This website was designed by the curriculum teams and the design was provided to me.
