@@ -59,8 +59,8 @@ body {
     background-image: radial-gradient(rgba(212, 71, 71, 0.877), rgb(82, 4, 4));
     margin-top: 20px;
     margin-bottom: 20px;
-}
 
+}
 .form-group {
     text-align: center;
     color: white;
@@ -85,12 +85,13 @@ body {
     text-shadow: 3px 3px rgba(153, 122, 21, 0.781)
 }
 h3 {
+    margin-left: 80px;
     text-align: center;
     color: white;
 }
 
 .img-thumbnail {
-    margin-left: 80px;
+    margin-left: 130px;
 }
    
 
