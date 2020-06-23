@@ -3,6 +3,7 @@ body {
     background-image: url(./images/XgREyQ.jpg)
   
 }
+/*portfolio links*/
 .dinmoLink {
     text-align: center;
     margin-left: 120px;
@@ -15,7 +16,22 @@ body {
     text-align: center;
     margin-left: 120px;
 }
-
+/*links*/
+.linkedin {
+    text-align: center;
+}
+.resume {
+    text-align: center;
+}
+.github {
+    text-align: center;
+}
+.email {
+    text-align: center;
+}
+.phone {
+    text-align: center;
+}
 /*Index Container color*/
 #intro {
     background-image: radial-gradient(rgba(212, 71, 71, 0.877), rgb(82, 4, 4));
@@ -57,7 +73,7 @@ body {
 }
 /*About Me Bio*/
 #bio {
-   
+  
     margin-right: 50px;
     margin-left: 50px;
     margin-top: 40px;
