@@ -3,6 +3,18 @@ body {
     background-image: url(./images/XgREyQ.jpg)
   
 }
+.dinmoLink {
+    text-align: center;
+    margin-left: 120px;
+}
+.pwGen {
+    text-align: center;
+    margin-left: 100px;
+}
+.codeQuiz {
+    text-align: center;
+    margin-left: 120px;
+}
 
 /*Index Container color*/
 #intro {
@@ -85,7 +97,7 @@ body {
     text-shadow: 3px 3px rgba(153, 122, 21, 0.781)
 }
 h3 {
-    margin-left: 80px;
+    margin-left: 100px;
     text-align: center;
     color: white;
 }
