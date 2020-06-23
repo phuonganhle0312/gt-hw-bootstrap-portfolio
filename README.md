@@ -16,7 +16,7 @@ Clone the repo and run the index.html file in default browser.
 
 ## Usage
 [Deployed Portfolio WebSite](https://phuonganhle0312.github.io/gt-hw-bootstrap-portfolio/index.html)
-[!Deployed Website](./assets/images/deployed.png "My Portfolio Website")
+![Deployed Website](./assets/images/screenshot.png)"My Portfolio Website")
 
 
 ## Credits
